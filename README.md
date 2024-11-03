@@ -5,4 +5,4 @@ Markdown is also used on many sites like
 - GitHub
 - Reddit
 
-  ![picture of goku]("C:\Users\aidan\OneDrive\Pictures\roblox.jpg")
+  ![picture of goku](https://www.google.com/imgres?q=goku&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fdragonball%2Fimages%2Fb%2Fba%2FGoku_anime_profile.png%2Frevision%2Flatest%3Fcb%3D20240723150655&imgrefurl=https%3A%2F%2Fdragonball.fandom.com%2Fwiki%2FGoku&docid=2ap1Qw6JUD3zXM&tbnid=qu9dSCadKIL4uM&vet=12ahUKEwiio9qGiL-JAxXHMDQIHcLsEAEQM3oECBgQAA..i&w=1029&h=2037&hcb=2&ved=2ahUKEwiio9qGiL-JAxXHMDQIHcLsEAEQM3oECBgQAA)

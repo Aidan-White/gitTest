@@ -5,4 +5,4 @@ Markdown is also used on many sites like
 - GitHub
 - Reddit
 
-  ![picture of goku]("C\Users\aidan\OneDrive\Pictures\Screenshots\Screenshot(1).png")
+  ![picture of goku]("C:\Users\aidan\OneDrive\Pictures\Screenshots\Screenshot_(1).png")
